@@ -1,0 +1,20 @@
+body{
+     background-image: url(order.select.photo.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+}
+ .main{
+       font-size: larger;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       margin-left: 789px;
+       color: red;
+ }
+ .main2{
+     font-size: medium;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     margin-left: 789px;
+     color: yellow;
+     margin-bottom: 789px;
+     position: fixed;
+ }
